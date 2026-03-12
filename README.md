@@ -47,7 +47,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/love-kumar-upadhyay090080">
-<img src="https://img.shields.io/badge/LinkedIn-Love%20Upadhyay-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Love%20 kumar Upadhyay-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/loveupadhiyay202428-alt">
