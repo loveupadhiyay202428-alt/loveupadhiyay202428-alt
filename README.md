@@ -38,15 +38,7 @@
 
 ---
 
-## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loveupadhiyay202428-alt&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=loveupadhiyay202428-alt&theme=tokyonight)
 
 ---
 
